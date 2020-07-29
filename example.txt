@@ -1,0 +1,5 @@
+Configure your AWS account
+Create your database using DynamoDB
+Set up S3 for file uploads
+Set up Cognito User Pools to manage user accounts
+Set up Cognito Identity Pool to secure our file uploads
