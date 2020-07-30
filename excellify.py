@@ -66,7 +66,7 @@ def createSheetFromFile(filePath):
     gsf.set_data_validation_for_cell_range(items, columnBRange, validation_rule)
 
 # Enter your
-ownerEmail = ""
+ownerEmail = input("Please enter the email you want to share the sheet(s) with: ")
 
 print("--==Excellify==---")
 
